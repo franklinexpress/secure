@@ -1,3 +1,3 @@
-module github.com/unrolled/secure
+module github.com/franklinexpress/secure
 
 go 1.13
